@@ -76,3 +76,9 @@ For any questions or suggestions, please contact:
 
 Your Name:b21cs123@kitsw.ac.in
 GitHub: https://github.com/Nithish1209
+
+
+1-->npm install
+2-->cd affordmedical
+3-->npm start
+
