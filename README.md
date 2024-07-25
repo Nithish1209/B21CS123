@@ -1,3 +1,6 @@
+AffordMedical Screenshot(./assets/Screenshot%202024-07-24%20195317.png)
+
+
 AffordMedical
 AffordMedical is a web application designed to provide affordable medical services and information to users. Built with React.js, this project aims to offer a seamless user experience and efficient access to healthcare resources.
 
